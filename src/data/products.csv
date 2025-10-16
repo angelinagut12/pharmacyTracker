@@ -1,0 +1,6 @@
+id,name,sku,quantity,price,min_stock
+1,Acetaminophen 500mg,ACE500,120,3.99,50
+2,Children Cough Syrup,COUGH-KIDS,45,7.49,20
+3,Ibuprofen 200mg,IBU200,60,1.99,10
+4,MiraLax,MIR017,119,2.99,5
+5,Baby Wipes,BAB100,100,3.99,5
