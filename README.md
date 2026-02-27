@@ -1,4 +1,4 @@
-# Inventory CLI (File Version) – Java 17
+# Inventory CLI  – Java 17
 
 A simple console app that manages products stored in a local CSV file. No database required.
 
@@ -18,7 +18,7 @@ A simple console app that manages products stored in a local CSV file. No databa
 - Delete product
 - Low-stock report
 
-## Next steps (optional)
+## Next steps 
 - Input validation and nicer menus
 - Export low-stock report to CSV file
 - Switch to MySQL later by replacing `ProductFileStore` with a JDBC DAO
